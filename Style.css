@@ -1,0 +1,67 @@
+@import url(https://fonts.googleapis.com/css?family=Kolker+Brush:wght:400);
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+body {
+    background: url("background.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1 {
+    font-family: 'Kolker Brush';
+    font-size: 500%;
+    margin: 0%;
+    color: white;
+}
+h3 {
+    font-family: 'Kolker Brush';
+    font-size: 300%;
+    margin: 5%;
+    text-align: center;
+}
+p {
+    font-family: 'Caveat';
+    text-align: center;
+    font-size: 130%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: gray;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  border-radius: 5px;
+}
+
+li {
+  float: left;
+  width: 25%;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Caveat';
+  font-size: 120%;
+}
+.activepg {
+  background-color: gainsboro;
+  color: black;
+}
+div.textbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.8;
+  border-radius: 5px;
+}

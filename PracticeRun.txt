@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="Style.css" rel="stylesheet">
+    </head>
+    <body>
+        <h2>Rancher's Cattle Ranch for Ranching</h2>
+        <p>Welcome to Rancher's Cattle Ranch for Ranching!</p>
+        <div class="row">
+            <div class="column">
+                <h3>The Longhorn</h3>
+                <p>Longhorns are our speciality. They are so freaking beefy and cool, plus they have big ol' horns.
+                <div class="image">
+                    <br><img src="longhorn.jpg" alt="Longhorn Cattle" width="200" height="180"></img></p>
+                </div>
+            </div>
+            <div class="column">
+                <h3>The Pineywoods</h3>
+                <p>I'm gonna' be honest here, I know jack about diddly when it comes to these cows. However, we raise 'em big and strong. Guaranteed to impress the parents of potential spouses.
+                <div class="image">
+                    <br><img src="pineywoods.jpg" style="position: absolute;top: 45%;transform: translateY(-51%)" alt="Pineywoods Cattle" width="200" height="180"></img></p>
+                </div>
+            </div>
+            <div class="column">
+                <h3>The Black Angus</h3>
+                <p>Black angus are a sturdy breed. Make great friends and loveable pets. Name a sweeter breed of cattle. That's right, you can't.
+                <div class="image">
+                    <br><img src="blackangus.jpg" alt="Black Angus Cattle" width="200" height="180"></img></p>
+                </div>
+            </div>
+            <div class="column">
+                <h3>The Holstein</h3>
+                <p>You wanna' talk about a classic? The Holstein breed are what every person in the United States pictures in their mind when they think "cow."
+                <div class="image">
+                    <br><img src="holstein.jpg" alt="Holstein Cattle" width="200" height="180"></img></p>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+        <h2>We Got Cattle and We Want You to Buy 'Em</h2>
+        <p>We are located at 123 Cow Patty Ln, Columbia MO.</p>
+        <p>You can contact us using our email: bigcattleboi@farmersonly.com or using our phone number: 1-800-BIG-COWS</p>
+        </div>
+    </body>
+</html>
