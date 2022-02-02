@@ -3,6 +3,7 @@
 
 * {
     box-sizing: border-box;
+    font-family: 'Caveat';
 }
 body {
     background: url("background.jpg") no-repeat center center fixed;
